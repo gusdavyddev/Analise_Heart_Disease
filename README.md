@@ -1,5 +1,3 @@
-# Analise_Heart_Disease
-
 # Atividade Prática - Programação Avançada: Machine Learning
 
 Este repositório contém a entrega da atividade prática da disciplina de **Programação Avançada**. O objetivo do trabalho foi realizar uma Análise Exploratória de Dados (EDA) e aplicar modelos de Machine Learning (KNN e Random Forest) em um dataset de saúde.
