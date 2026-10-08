@@ -46,4 +46,3 @@ Durante a análise da matriz de confusão dos modelos, identificou-se a causa da
 2. **Comportamento do Algoritmo:** Como as variáveis não possuem correlação direta com o alvo, os modelos aprenderam a "chutar" a classe majoritária (`0`) para 100% das amostras, garantindo 80% de acurácia automática, porém sem acertar os pacientes doentes.
 3. **Consideração Final:** O trabalho demonstrou na prática a importância de avaliar métricas adicionais (como *Recall* e *Matriz de Confusão*) para além da acurácia simples em problemas com dados desbalanceados.
 
-Link para o dataset: https://www.kaggle.com/datasets/oktayrdeki/heart-disease/data
